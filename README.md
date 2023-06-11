@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in JS, PHP and Python
-- 🌱 I’m currently learning React and jQuery
+- 👀 I’m interested guitar, development, education
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on basicly anything that involve team work
 - 📫 https://www.linkedin.com/in/lucas-witkowski-7b937158/
