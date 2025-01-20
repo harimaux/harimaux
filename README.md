@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in guitar playing, .NET dev, education, psyhology, history
-- 🌱 I’m currently learning ASP.NET, Entity Framework, Identity Framework, BLAZOR, JS, Bootstrap
-- 💞️ Working towards Honours degree in Software Development
+- 🌱 Currently developing software with ASP.NET, Entity Framework, Identity Framework, BLAZOR, JS, Bootstrap
+- 💞️ Working towards developing my own business
 - 📫 https://www.linkedin.com/in/lucas-witkowski-7b937158/
